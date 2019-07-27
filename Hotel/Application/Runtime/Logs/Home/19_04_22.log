@@ -1,0 +1,206 @@
+[ 2019-04-22T22:50:59+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004009s ]
+
+[ 2019-04-22T22:51:07+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Login/userLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `m_user` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `m_user` WHERE ( Uname='1' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-04-22T22:51:08+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+
+[ 2019-04-22T22:51:14+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+
+[ 2019-04-22T22:51:18+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002449s ]
+
+[ 2019-04-22T22:51:21+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+
+[ 2019-04-22T22:51:35+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+
+[ 2019-04-22T22:52:44+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+
+[ 2019-04-22T22:52:45+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+
+[ 2019-04-22T22:52:52+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001594s ]
+
+[ 2019-04-22T22:53:22+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000946s ]
+
+[ 2019-04-22T22:53:43+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+
+[ 2019-04-22T22:53:47+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+
+[ 2019-04-22T22:54:17+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+
+[ 2019-04-22T22:54:20+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-04-22T22:54:22+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+
+[ 2019-04-22T22:54:23+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+
+[ 2019-04-22T23:24:25+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+
+[ 2019-04-22T23:24:25+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+
+[ 2019-04-22T23:24:26+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002250s ]
+
+[ 2019-04-22T23:24:32+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Login/userLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+SQL: SHOW COLUMNS FROM `m_user` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `m_user` WHERE ( Uname='1' ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2019-04-22T23:24:32+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+
+[ 2019-04-22T23:24:36+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+
+[ 2019-04-22T23:24:43+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Login/userLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000952s ]
+SQL: SHOW COLUMNS FROM `m_user` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `m_user` WHERE ( Uname='1' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2019-04-22T23:24:43+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/home/Homepage/lanjie
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+

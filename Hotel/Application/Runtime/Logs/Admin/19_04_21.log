@@ -1,0 +1,10 @@
+[ 2019-04-21T22:17:18+08:00 ] 127.0.0.1 /PHPstormProject/TP_hotel/Hotel/index.php/admin/Login/adminLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `m_admin` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `m_admin` WHERE ( Aname='' ) LIMIT 1   [ RunTime:0.0014s ]
+

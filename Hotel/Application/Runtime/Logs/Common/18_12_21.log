@@ -1,0 +1,919 @@
+[ 2018-12-21T09:49:23+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T09:49:29+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T09:50:06+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T09:52:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T09:58:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T10:01:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T10:04:50+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T10:04:52+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T10:14:02+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T10:14:04+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/component.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010326s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/menu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001331s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/AIIT7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/map.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/AIIT9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/test1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001918s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:04:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/logo.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005571s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/component.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/menu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/AIIT7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/map.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+ERR: 无法加载模块:Application
+
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/test1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003719s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:06:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/component.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/menu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003021s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/AIIT7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/AIIT9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/map.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/images/test1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:07:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:15:15+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Publicimages/logo.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+ERR: 无法加载模块:Publicimages
+
+[ 2018-12-21T11:17:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:17:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001089s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:17:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:17:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:17:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:17:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002904s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:54+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001544s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:54+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:54+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:55+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:55+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:20:55+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:22:57+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002192s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:22:57+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:22:57+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:22:57+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:23:40+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000499s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/component.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/menu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000146s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/AIIT7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/AIIT9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004791s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/map.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/test1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000243s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/logo.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/component.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/jquery-2.1.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/move-top.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/menu.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010667s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/easing.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/AIIT7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/AIIT9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/css/animate.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/map.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/images/test1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/wow.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/classie.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/jquery.iconmenu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:Application
+
+[ 2018-12-21T11:24:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Application/Home/View/homepage/__PUBLIC__/js/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001456s ]
+ERR: 无法加载模块:Application
+

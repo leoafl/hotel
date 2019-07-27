@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文津酒店</title>
+    <!--一统一入口文件的位置为准-->
+    <link rel="stylesheet" href="__PUBLIC__/layui/css/layui.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/main.css">
+    <link rel="stylesheet" href="__PUBLIC__/css/online.css">
+    <style>
+        .msg p{
+            font-size: 16px;
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="layui-layout layui-layout-admin">
+    <div class="layui-header">
+        <div class="layui-logo">文津酒店个人中心</div>
+        <!-- 头部区域（可配合layui已有的水平导航） -->
+        <ul class="layui-nav layui-layout-left">
+            <li class="layui-nav-item"><a href="{:U('personal/index')}">个人中心</a></li>
+            <li class="layui-nav-item"><a href="{:U('homepage/index')}">首页</a></li>
+            <li class="layui-nav-item"><a href="{:U('homepage/search')}">预订</a></li>
+        </ul>
+        <ul class="layui-nav layui-layout-right">
+            <!--<li class="layui-nav-item">-->
+                <!--<a href="javascript:;">-->
+                    <!--&lt;!&ndash;<img src="http://t.cn/RCzsdCq" class="layui-nav-img">&ndash;&gt;-->
+                    <!--<img src="__PUBLIC__/img/tx1.jpg" class="layui-nav-img">-->
+                    <!--欢迎-->
+                <!--</a>-->
+            <!--</li>-->
+            <li class="layui-nav-item"><a href="{:U('login/logout')}">退出</a></li>
+        </ul>
+    </div>
+
+    <div class="layui-side layui-bg-black">
+        <div class="layui-side-scroll">
+            <!-- 左侧导航区域（可配合layui已有的垂直导航） -->
+            <ul class="layui-nav layui-nav-tree" lay-filter="test">
+                <li class="layui-nav-item layui-nav-itemed">
+                    <a class="" href="javascript:;">我的订单</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="{:U('personal/orderlist')}">订单列表</a></dd>
+                        <dd><a href="{:U('personal/unevaluate')}">待评价订单</a></dd>
+                        <dd><a href="{:U('personal/evaluated')}">已评价订单</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item layui-nav-itemed">
+                    <a class="" href="javascript:;">账户设置</a>
+                    <dl class="layui-nav-child">
+                        <!--<dd><a href="{:U('personal/index')}">个人中心</a></dd>-->
+                        <dd><a href="{:U('personal/edit')}">修改资料</a></dd>
+                        <dd><a href="{:U('personal/safe')}">安全设置</a></dd>
+                    </dl>
+                </li>
+                <li class="layui-nav-item layui-nav-itemed">
+                    <a class="" href="javascript:;">酒店服务</a>
+                    <dl class="layui-nav-child">
+                        <dd><a href="{:U('personal/help')}">帮助中心</a></dd>
+                        <dd><a href="{:U('personal/vip')}">会员中心</a></dd>
+                        <dd><a href="{:U('personal/online')}">在线客服</a></dd>
+                    </dl>
+                </li>
+
+            </ul>
+        </div>
+    </div>

@@ -1,0 +1,93 @@
+<include file="Public/header"/>
+
+<div id="emplist" class="layui-body">
+    <div style="padding: 20px; background-color: #F2F2F2;">
+        <div class="layui-row layui-col-space15">
+            <div class="layui-col-md12">
+                <div class="layui-card">
+                    <div class="layui-card-header">用户数据</div>
+                    <div class="layui-card-body">
+                        <table>
+                        <tr>
+                            <td>用户总数：</td>
+                            <td style="color:#f60;font-weight: bold">{$ucount}</td>
+                            <td>新增会员：</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>待付款：</td>
+                            <td>0</td>
+                            <td>登录会员：</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>已付款：</td>
+                            <td>3</td>
+                            <td>新增评价：</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>待评价：</td>
+                            <td>3</td>
+                            <td>已评价：</td>
+                            <td>1</td>
+                        </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="layui-col-md12">
+                <div class="layui-card">
+                    <div class="layui-card-header">酒店数据</div>
+                    <div class="layui-card-body">
+                        <table>
+                            <tr>
+                                <td>房间总数：</td>
+                                <td style="color:#f60;font-weight: bold">{$rcount}</td>
+                                <td>今日新增房间：</td>
+                                <td>1</td>
+                            </tr>
+                            <tr>
+                                <td>今日订单总数：</td>
+                                <td style="color:#f60;font-weight: bold">{$ocount}</td>
+                                <td>今日新增订单：</td>
+                                <td>2</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="layui-col-md12">
+                <div class="layui-card">
+                    <div class="layui-card-header">员工数据</div>
+                    <div class="layui-card-body">
+                        <table>
+                            <tr>
+                                <td>员工总数：</td>
+                                <td style="color:#f60;font-weight: bold">{$ecount}</td>
+                                <td>男员工数：</td>
+                                <td style="color:#f60;font-weight: bold">{$man}</td>
+                            </tr>
+                            <tr>
+                                <td>在职员工：</td>
+                                <td style="color:#f60;font-weight: bold">{$ecount}</td>
+                                <td>女员工数：</td>
+                                <td style="color:#f60;font-weight: bold">{$women}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'form'], function () {
+        var element = layui.element;
+
+    });
+</script>
+</body>
+</html>

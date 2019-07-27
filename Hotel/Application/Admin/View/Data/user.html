@@ -1,0 +1,43 @@
+<include file="Public/header"/>
+
+<div id="emplist" class="layui-body">
+    <fieldset class="layui-elem-field layui-field-title" style="margin-top: 20px;">
+        <legend>酒店入住用户</legend>
+    </fieldset>
+    <div class="layui-form">
+        <table class="layui-table">
+            <thead>
+            <tr>
+                <th>姓名</th>
+                <th>性别</th>
+                <th>身份证号</th>
+                <th>手机号</th>
+                <th>入住时间</th>
+                <th>离开时间</th>
+            </tr>
+            </thead>
+            <tbody>
+            <volist name="orders" id="order">
+                <tr>
+                    <td>{$order.oname}</td>
+                    <td>{$order.osex}</td>
+                    <td>{$order.ocard}</td>
+                    <td>{$order.ophone}</td>
+                    <td>{$order.ogtime}</td>
+                    <td>{$order.oltime}</td>
+                </tr>
+            </volist>
+            </tbody>
+        </table>
+    </div>
+</div>
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'form'], function () {
+        var element = layui.element;
+
+    });
+</script>
+</body>
+</html>

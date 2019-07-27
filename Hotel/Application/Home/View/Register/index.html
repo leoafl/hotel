@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+    <!--__PUBLIC__模板替换-->
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/css/styles.css">
+    <link rel="stylesheet" href="__PUBLIC__/layui/css/layui.css">
+</head>
+<body>
+<div class="htmleaf-container">
+    <div class="wrapper">
+        <div class="container">
+            <h1>欢迎，请注册</h1>
+
+            <form class="layui-form" action="userRegister" method="post">
+                <input type="text" name="Uname" placeholder="请输入账号">
+                <input type="text" name="Unickname" placeholder="请输入昵称">
+                <input type="password" name="Upassword" placeholder="请输入密码">
+                <input type="text" name="Uemail" placeholder="请输入邮箱">
+                <input  type="text" name="Ucheck" placeholder="请输入验证码">
+                <img id="refimg" src="{:U('register/getVerify')}" alt="验证码">
+                <input type="Submit" name="Submit" value="注册"/>
+                <input type="button" name="button" onclick="javascript:history.back(-1);" value="返回"/>
+            </form>
+        </div>
+
+        <ul class="bg-bubbles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</div>
+
+<script src="__PUBLIC__/js/jquery-2.1.1.min.js"></script>
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    $('#login-button').click(function (event) {
+        event.preventDefault();
+        $('form').fadeOut(500);
+        $('.wrapper').addClass('form-success');
+    });
+
+    // layui验证码
+    layui.use('form', function () {
+        var form = layui.form;
+        //自定义验证规则
+    });
+    document.getElementById('refimg').onclick = ref;
+
+    function ref() {
+        var refimg = document.getElementById('refimg');
+        refimg.src = "{:U('register/getVerify')}";
+    }
+</script>
+</body>
+</html>

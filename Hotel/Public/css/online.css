@@ -1,0 +1,162 @@
+
+/*客服*/
+
+/*h1 {*/
+    /*height: 80px;*/
+    /*background: rgba(0, 0, 0, .5);*/
+    /*color: #fff;*/
+    /*font-weight: 100;*/
+    /*text-align: center;*/
+    /*line-height: 80px;*/
+/*}*/
+
+#box {
+    width: 800px;
+    height: 600px;
+    background-color: #f2f2f2;
+    margin: 0 auto;
+}
+
+.b_head {
+    height: 60px;
+    background: #7bb7f3;
+}
+
+.b_head .h_img {
+    margin: 0 20px;
+    float: left;
+}
+
+.b_head .h_span {
+    color: #fff;
+    line-height: 60px;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.b_body {
+    width: 800px;
+    height: 400px;
+    padding: 20px;
+    overflow: auto;
+}
+
+.rotWord {
+    overflow: hidden;
+}
+
+.rotWord span {
+    width: 40px;
+    height: 40px;
+    /*background: url(img/rot.png);*/
+    float: left;
+}
+
+.rotWord p {
+    float: left;
+    padding: 10px;
+    background: #d8d8ff;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+    word-break: break-all;
+    max-width: 220px;
+}
+
+#rootchat {
+    float: left;
+    padding: 10px;
+    background: #d8d8ff;
+    margin-left: 10px;
+    border-radius: 8px;
+    word-break: break-all;
+    max-width: 220px;
+}
+
+.myWord {
+    overflow: hidden;
+}
+
+.myWord span {
+    width: 40px;
+    height: 40px;
+    float: right;
+}
+
+.myWord p {
+    float: right;
+    padding: 10px;
+    background: #fff;
+    margin-right: 10px;
+    border-radius: 8px;
+    word-break: break-all;
+    max-width: 220px;
+}
+
+#me {
+    float: right;
+    padding: 10px;
+    background: #d8d8ff;
+    margin-left: 10px;
+    border-radius: 8px;
+    word-break: break-all;
+    max-width: 220px;
+}
+
+.b_footer {
+    width: 760px;
+    height: 60px;
+    padding: 20px;
+}
+
+#input {
+    width: 620px;
+    height: 60px;
+    background: rgba(0, 0, 0, .1);
+    border-radius: 8px;
+    text-indent: 10px;
+    color: black;
+    float: left;
+    font-size: 18px;
+    outline: none;
+    overflow: hidden;
+    border: none;
+}
+
+#btn {
+    width: 100px;
+    height: 60px;
+    background: #009688;
+    border-radius: 8px;
+    user-select: none;
+    text-align: center;
+    line-height: 60px;
+    float: right;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.b_body::-webkit-scrollbar {
+    width: 4px;
+}
+
+
+.b_body::-webkit-scrollbar-track {
+    background-color: #808080;
+    border-radius: 2em;
+}
+
+.b_body::-webkit-scrollbar-thumb {
+    background-color: #03a9f4;
+    borde-radius: 2em;
+}
+
+.b_body::-webkit-scrollbar-track {
+    background-color: #808080;
+    borde-radius: 2em;
+}
+
+.b_body::-webkit-scrollbar-thumb {
+    background-color: #03a9f4;
+    border-radius: 2em;
+}

@@ -1,0 +1,62 @@
+<include file="Public/header"/>
+<div id="emplist" class="layui-body">
+    <!-- 内容主体区域 -->
+    <fieldset class="layui-elem-field site-demo-button" style="margin-top: 30px;">
+        <legend>修改个人信息</legend>
+
+        <form class="layui-form" enctype="multipart/form-data" method="POST" action="{:U('personal/doedit')}">
+            <input type="hidden" name="Uid" value="{$user['uid']}">
+            <div class="layui-form-item">
+                <label class="layui-form-label"></label>
+                <if condition="!$my['img']">
+                    <img src="__PUBLIC__/img/tx1.jpg"
+                         style="width: 100px;height: 100px;background-size: 100% 100%;border-radius: 50%"
+                         class="layui-upload-img tx">
+                    <else/>
+                    <img src="__ROOT__/Uploads/{$my.img}"
+                         style="width: 100px;height: 100px;background-size: 100% 100%;border-radius: 50%"
+                         class="layui-upload-img tx">
+                </if>
+                <!--<img src="__PUBLIC__/img/tx1.jpg" style="width: 100px;height: 100px;background-size: 100% 100%;">-->
+                <!--<input class="layui-input layui-input-inline" type="text" name="form_data">-->
+            </div>
+
+            <div class="layui-form-item">
+                <label class="layui-form-label">修改头像</label>
+                <input class="layui-input layui-input-inline" type="file" name="img" id="pic">
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">昵称</label>
+                <input class="layui-input layui-input-inline" type="text" name="Unickname" value="{$user['unickname']}">
+            </div>
+            <div class="layui-form-item">
+                <label class="layui-form-label">性别</label>
+                <div class="layui-input-block">
+                    <input type="radio" name="Usex" value="男" title="男" checked="">
+                    <input type="radio" name="Usex" value="女" title="女">
+                </div>
+            </div>
+            <div class="btn-left">
+                <a href="{:U('personal/index')}">
+                    <input class="layui-btn layui-btn-primary" type="button" onclick="javascript:history.back(-1);"
+                           value="返回">
+                </a>
+                <input class="layui-btn" type="submit" value="提交">
+            </div>
+        </form>
+    </fieldset>
+    <!--<div style="padding: 15px;">内容主体区域</div>-->
+</div>
+
+
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'form', 'layer'], function () {
+        var element = layui.element;
+        var form = layui.form;
+        form.render();
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+{
+  "ret": true,
+  "data": {
+    "roomList": [{
+      "id": "0001",
+      "name":"经济单人间",
+      "price":"88",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积20㎡有窗，1张1.35m单人床可住2人，12-31层有wifi",
+      "food":"无"
+    },{
+      "id": "0002",
+      "name":"经济双人间",
+      "price":"129",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积30㎡有窗，2张1.35m单人床不可以加床可住2人，有wifi，有冰箱",
+      "food":"无"
+    },{
+      "id": "0003",
+      "name":"行政双人间",
+      "price":"189",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积30㎡有窗，2张1.35m单人床可住2人，有wifi、鸭绒被，有冰箱",
+      "food":"无"
+    },{
+      "id": "0004",
+      "name":"行政大床房",
+      "price":"129",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积30㎡有窗，1张1.8m双人床可住2人，有wifi、鸭绒被，有冰箱",
+      "food":"无"
+    },{
+      "id": "0005",
+      "name":"经济江景大床房",
+      "price":"189",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积30㎡有窗，1张2m双人床不可以加床可住2人，有wifi、有冰箱",
+      "food":"无"
+    },{
+      "id": "0006",
+      "name":"豪华双床房",
+      "price":"349",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积30㎡,有窗，2张1.5m单人床可住2人，有wifi，有冰箱",
+      "food":"无"
+    },{
+      "id": "0007",
+      "name":"豪华江景大床房",
+      "price":"249",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积30㎡,有窗，1张2m双人人床可住2人，有wifi，有冰箱",
+      "food":"无"
+    },{
+      "id": "0008",
+      "name":"豪华套房",
+      "price":"999",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积50㎡,有窗，1张大床，2张1.35m单人床可住4人，有wifi，有冰箱",
+      "food":"无"
+    },{
+      "id": "0009",
+      "name":"家庭套房",
+      "price":"399",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积50㎡,有窗，1张2m大床，1张1.35m单人床可住2人，有wifi，有冰箱",
+      "food":"无"
+    },{
+      "id": "0010",
+      "name":"主题套房",
+      "price":"599",
+      "img": "https://userimg.qunarzz.com/imgs/201812/15/C._M0DCiiiFN-lYycCi480s.jpg",
+      "msg":"建筑面积50㎡,有窗,1张2m水床，健身器材，沙发，厨房可住2人，有wifi，有冰箱",
+      "food":"无"
+    }]
+   }
+}

@@ -1,0 +1,45 @@
+<include file="Public/header"/>
+
+    <div id="emplist" class="layui-body">
+        <!-- 内容主体区域 -->
+        <fieldset class="layui-elem-field site-demo-button" style="margin-top: 30px;">
+            <legend>添加房间</legend>
+            <form class="layui-form" method="post" action="doadd">
+                <div class="layui-form-item">
+                    <label class="layui-form-label">房间类型</label>
+                    <input class="layui-input layui-input-inline" type="text" name="Rname" placeholder="请输入房间类型">
+                </div>
+                <div class="layui-form-item">
+                    <label class="layui-form-label">价格</label>
+                    <input class="layui-input layui-input-inline" type="number" name="Rprice" placeholder="请输入价格">
+                </div>
+                <div class="layui-form-item">
+                    <label class="layui-form-label">房间信息</label>
+                    <input class="layui-input layui-input-inline" type="text" name="Rmsg" placeholder="请输入房间信息">
+                </div>
+                <!--<div class="layui-form-item">-->
+                    <!--<label class="layui-form-label">房间图片</label>-->
+                    <!--<input class="layui-input layui-input-inline" type="text" name="Rpicture" placeholder="请添加房间图片">-->
+                <!--</div>-->
+                <div class="btn-left">
+                    <input class="layui-btn layui-btn-primary" type="button" onclick="javascript:history.back(-1);" value="返回">
+                    <input class="layui-btn" type="submit" value="提交">
+                </div>
+
+            </form>
+        </fieldset>
+        <!--<div style="padding: 15px;">内容主体区域</div>-->
+    </div>
+</div>
+
+
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use(['element','form'], function () {
+        var element = layui.element;
+
+    });
+</script>
+</body>
+</html>

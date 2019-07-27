@@ -1,0 +1,456 @@
+[ 2018-12-29T10:32:11+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T15:47:55+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T15:48:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T16:52:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:52:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:53:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002177s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:42+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:42+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:42+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:42+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:42+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001401s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/%EF%BF%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T16:55:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T17:37:15+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/css/bootstrap.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T17:43:44+08:00 ] 127.0.0.1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:01:23+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:06:19+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:09:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:10:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:29:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/img/hotel.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:36:25+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/01_avatar_big.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:36:25+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/01_avatar_big.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:36:26+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/01_avatar_big.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:37:18+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/01_avatar_big.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:38:20+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/cat1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:38:23+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/01_avatar_big.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:38:27+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/01_avatar_big.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:42:27+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/cat1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:42:29+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/cat1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:42:34+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Uploads/01_avatar_big.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Uploads
+
+[ 2018-12-29T18:47:22+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:52:27+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:53:39+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:54:58+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:56:02+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T18:57:36+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+ERR: 无法加载模块:Public
+
+[ 2018-12-29T19:08:25+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/Public/images/close.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:Public
+

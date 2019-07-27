@@ -1,0 +1,42 @@
+[ 2019-04-10T08:43:26+08:00 ] ::1 /untitled/Hotel/index.php/Home/Homepage/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017997s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000240s ]
+NOTIC: [8] Undefined variable: personal C:\xampp\htdocs\untitled\Hotel\Application\Runtime\Cache\Home\ea5813382b22a8b3fd387828107dc05d.php 第 126 行.
+NOTIC: [8] Undefined variable: logout C:\xampp\htdocs\untitled\Hotel\Application\Runtime\Cache\Home\ea5813382b22a8b3fd387828107dc05d.php 第 127 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057956s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013784s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012526s ]
+
+[ 2019-04-10T08:43:33+08:00 ] ::1 /untitled/Hotel/index.php/Home/Homepage/services.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000473s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000771s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+

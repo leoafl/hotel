@@ -1,0 +1,98 @@
+<include file="Public/header"/>
+<div id="emplist" class="layui-body">
+    <!-- 内容主体区域 -->
+    <table>
+        <caption>员工列表</caption>
+        <thead>
+        <tr>
+            <th>员工号</th>
+            <th>姓名</th>
+            <th>性别</th>
+            <th>年龄</th>
+            <th>身份证号</th>
+            <th>手机号</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        <volist name="emps" id="emp">
+            <tr>
+                <td>{$emp.eid}</td>
+                <td>{$emp.ename}</td>
+                <td>{$emp.esex}</td>
+                <td>{$emp.eage}</td>
+                <td>{$emp.ecard}</td>
+                <td>{$emp.ephone}</td>
+                <td>
+                    <a href="{:U('emp/edit',array('Eid'=>$emp['eid']))}" class="layui-btn layui-btn-sm"><i class="layui-icon"></i>编辑</a>
+                    <!--<a onclick="redit()" class="layui-btn layui-btn-sm"><i class="layui-icon"></i>编辑</a>-->
+                    <!--<a href="{:U('edit',array('Rid'=>$room['rid']))}" onclick="redit()" class="layui-btn layui-btn-sm"><i class="layui-icon"></i>编辑</a>-->
+                    <a class="layui-btn layui-btn-danger layui-btn-sm" onclick="showDel('{$emp.ename}','{$emp.eid}')"><i
+                            class="layui-icon"></i>删除</a>
+                </td>
+            </tr>
+        </volist>
+        </tbody>
+    </table>
+    <!--分页-->
+    <div id="listpage"></div>
+</div>
+</div>
+
+
+<script src="__PUBLIC__/layui/layui.js"></script>
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'layer', 'laypage'], function () {
+        // var element = layui.element;
+        var laypage = layui.laypage;
+        //总页数低于页码总数
+        laypage.render({
+            elem: 'listpage'
+            , count: {$count} //数据总数
+            ,limit:5
+            ,curr:{$curr}
+            ,jump: function(obj, first){
+                //obj包含了当前分页的所有参数，比如：
+                console.log(obj.curr); //得到当前页，以便向服务端请求对应页的数据。
+                console.log(obj.limit); //得到每页显示的条数
+
+                //首次不执行
+                if(!first){
+                    //do something
+                    if(location.href.indexOf('curpage')==-1){
+                        location.href='index/curpage/'+obj.curr+'.html';
+                    }else{
+                        location.href=obj.curr+'.html';
+                    }
+                }
+            }
+        });
+
+    });
+
+    // function redit() {
+    //     if(location.href.indexOf('curpage')>=0){
+    //         location.href="../../edit?Eid={$emp.eid}";
+    //     }else{
+    //         location.href="edit?Eid={$emp.eid}";
+    //     }
+    // }
+
+    function showDel(name, Eid) {
+        var layer = layui.layer;
+
+        layer.confirm("确认删除" + name + "?", {
+            btn: ['确认', '取消']//按钮
+        }, function () {
+            // location.href = 'delete?no=' + Eno;
+            if(location.href.indexOf('curpage')>=0){
+                location.href='../../delete?id={$emp.eid}';
+            }else{
+                location.href='delete?id={$emp.eid}';
+            }
+        });
+    }
+</script>
+</body>
+</html>

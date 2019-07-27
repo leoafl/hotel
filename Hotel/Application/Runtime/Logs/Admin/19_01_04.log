@@ -1,0 +1,2694 @@
+[ 2019-01-04T17:43:55+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001050s ]
+
+[ 2019-01-04T17:44:00+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/adminLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `m_admin` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `m_admin` WHERE ( Aname='admin' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000935s ]
+
+[ 2019-01-04T17:44:03+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000599s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000642s ]
+
+[ 2019-01-04T17:44:07+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 5,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015451s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2019-01-04T17:44:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000934s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009158s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2019-01-04T17:44:09+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001212s ]
+
+[ 2019-01-04T17:44:11+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/edit/Rid/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001664s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `m_room` WHERE ( Rid='1' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ee2c4da0a1c9e245b7fdcb243804faa8.php 第 85 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2019-01-04T17:44:15+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0079s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_room` SET `Rname`='经济双人间',`Rprice`='192',`Rmsg`='建筑面积40㎡有窗，2张1.35m单人床不可以加床可住2人，12-31层有wifi房内保险箱，有冰箱' WHERE `Rid` = 1 [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000415s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2019-01-04T17:44:16+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000574s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2019-01-04T17:44:19+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0107s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011350s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000630s ]
+
+[ 2019-01-04T17:44:21+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000388s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-01-04T17:44:29+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001430s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0087s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `m_room` (`Rname`,`Rprice`,`Rmsg`) VALUES ('套房','222','建筑面积40㎡,有窗,2张1.35m单人床,可住2人,12-31层有wifi,房内保险箱,有冰箱') [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2019-01-04T17:44:30+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000581s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2019-01-04T17:44:31+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0132s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000747s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000794s ]
+
+[ 2019-01-04T17:44:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/delete?no=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0088s ]
+SQL: DELETE FROM `m_room` WHERE `Rid` = 12 [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000331s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009771s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000505s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2019-01-04T17:44:38+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2019-01-04T17:44:40+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+SQL: SHOW COLUMNS FROM `m_user` [ RunTime:0.0097s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0104s ]
+SQL: SHOW COLUMNS FROM `m_order` [ RunTime:0.0093s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0095s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_order` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` WHERE ( Esex='男' ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` WHERE ( Esex='女' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009482s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2019-01-04T17:44:49+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/echarts.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001129s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010817s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2019-01-04T17:44:56+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/money.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013475s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000543s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000591s ]
+
+[ 2019-01-04T17:45:04+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000916s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `m_order` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `m_order`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018026s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+
+[ 2019-01-04T17:45:15+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0109s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011087s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2019-01-04T17:45:20+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 5,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000517s ]
+
+[ 2019-01-04T17:45:22+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008597s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2019-01-04T17:45:41+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `m_emp` (`Ename`,`Esex`,`Eage`,`Ecard`,`Ephone`) VALUES ('老二','女','22','342622155650221563','17856923725') [ RunTime:0.0022s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000140s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001248s ]
+
+[ 2019-01-04T17:45:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012580s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001205s ]
+
+[ 2019-01-04T17:45:44+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 5,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020330s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001329s ]
+
+[ 2019-01-04T17:45:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/edit/Eid/9.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `m_emp` WHERE ( Eid='9' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011014s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2019-01-04T17:45:48+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0082s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_emp` SET `Ename`='老二',`Eage`='22',`Ecard`='342622155650221563',`Ephone`='17856923725' WHERE `Eid` = 9 [ RunTime:0.0031s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001019s ]
+
+[ 2019-01-04T17:47:43+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0072s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_emp` SET `Ename`='老二',`Eage`='22',`Ecard`='342622155650221563',`Ephone`='17856923723' WHERE `Eid` = 9 [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000167s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001181s ]
+
+[ 2019-01-04T17:47:44+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000530s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000579s ]
+
+[ 2019-01-04T17:47:45+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0067s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010916s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2019-01-04T17:47:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001168s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001242s ]
+
+[ 2019-01-04T17:47:54+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2019-01-04T17:47:55+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000494s ]
+
+[ 2019-01-04T17:53:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007430s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000743s ]
+
+[ 2019-01-04T17:53:50+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/adminLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `m_admin` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `m_admin` WHERE ( Aname='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000363s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010067s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010127s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001719s ]
+
+[ 2019-01-04T17:53:52+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011470s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000639s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2019-01-04T17:53:55+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0142s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 5,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001695s ]
+
+[ 2019-01-04T17:53:56+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0088s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000708s ]
+
+[ 2019-01-04T17:53:57+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012260s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000755s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001136s ]
+
+[ 2019-01-04T17:53:58+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008574s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000957s ]
+
+[ 2019-01-04T17:54:04+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001260s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `m_room` (`Rname`,`Rprice`,`Rmsg`) VALUES ('套房','111','建筑面积40㎡,有窗,2张1.35m单人床,可住2人,12-31层有wifi,房内保险箱,有冰箱') [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001438s ]
+
+[ 2019-01-04T17:54:05+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0071s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001203s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001277s ]
+
+[ 2019-01-04T17:54:06+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001201s ]
+
+[ 2019-01-04T17:54:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/edit/Rid/13.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `m_room` WHERE ( Rid='13' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ee2c4da0a1c9e245b7fdcb243804faa8.php 第 85 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001413s ]
+
+[ 2019-01-04T17:54:11+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0081s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_room` SET `Rname`='套房',`Rprice`='114',`Rmsg`='建筑面积40㎡,有窗,2张1.35m单人床,可住2人,12-31层有wifi,房内保险箱,有冰箱' WHERE `Rid` = 13 [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000961s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000993s ]
+
+[ 2019-01-04T17:54:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001608s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0112s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000824s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2019-01-04T17:54:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0136s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2019-01-04T17:54:16+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/delete?no=13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0072s ]
+SQL: DELETE FROM `m_room` WHERE `Rid` = 13 [ RunTime:0.0034s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2019-01-04T17:54:17+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009297s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2019-01-04T17:54:19+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `m_user` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0076s ]
+SQL: SHOW COLUMNS FROM `m_order` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_order` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` WHERE ( Esex='男' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` WHERE ( Esex='女' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011304s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000696s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000684s ]
+
+[ 2019-01-04T17:54:24+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/echarts.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002476s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001125s ]
+
+[ 2019-01-04T17:54:31+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/money.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001631s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2019-01-04T17:54:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: SHOW COLUMNS FROM `m_order` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `m_order`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000711s ]
+
+[ 2019-01-04T17:54:41+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0144s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021898s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000989s ]
+
+[ 2019-01-04T17:54:44+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 5,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009583s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000980s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001036s ]
+
+[ 2019-01-04T17:54:46+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2019-01-04T17:55:11+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000755s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0075s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `m_emp` (`Ename`,`Esex`,`Eage`,`Ecard`,`Ephone`) VALUES ('例子','女','22','342622155986221563','17856923724') [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001067s ]
+
+[ 2019-01-04T17:55:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013245s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003741s ]
+
+[ 2019-01-04T17:55:13+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 5,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001066s ]
+
+[ 2019-01-04T17:55:15+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/edit/Eid/10.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `m_emp` WHERE ( Eid='10' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008978s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000804s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000845s ]
+
+[ 2019-01-04T17:55:19+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001085s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0077s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_emp` SET `Ename`='例子',`Eage`='25',`Ecard`='342622155986221563',`Ephone`='17856923724' WHERE `Eid` = 10 [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011573s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001038s ]
+
+[ 2019-01-04T17:55:20+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001189s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2019-01-04T17:55:23+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/delete?id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0067s ]
+SQL: DELETE FROM `m_emp` WHERE `Eid` = 5 [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001153s ]
+
+[ 2019-01-04T17:55:24+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0081s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001061s ]
+
+[ 2019-01-04T17:55:26+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000233s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009317s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001450s ]
+
+[ 2019-01-04T17:55:27+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008152s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001504s ]
+
+[ 2019-01-04T18:06:00+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010131s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001115s ]
+
+[ 2019-01-04T18:06:04+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/adminLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000986s ]
+SQL: SHOW COLUMNS FROM `m_admin` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `m_admin` WHERE ( Aname='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013968s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001276s ]
+
+[ 2019-01-04T18:06:05+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013518s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000932s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001697s ]
+
+[ 2019-01-04T18:06:08+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0079s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 5,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020919s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020988s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001139s ]
+
+[ 2019-01-04T18:06:09+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018052s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000913s ]
+
+[ 2019-01-04T18:06:10+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001488s ]
+
+[ 2019-01-04T18:06:11+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001385s ]
+
+[ 2019-01-04T18:06:16+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/doadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0081s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `m_room` (`Rname`,`Rprice`,`Rmsg`) VALUES ('套房','1111','建筑面积40㎡,有窗,2张1.35m单人床,可住2人,12-31层有wifi,房内保险箱,有冰箱') [ RunTime:0.0111s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001160s ]
+
+[ 2019-01-04T18:06:17+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011934s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000905s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2019-01-04T18:06:18+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000665s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2019-01-04T18:06:21+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/edit/Rid/14.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0192s ]
+SQL: SELECT * FROM `m_room` WHERE ( Rid='14' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ee2c4da0a1c9e245b7fdcb243804faa8.php 第 85 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000720s ]
+
+[ 2019-01-04T18:06:24+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/room/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001078s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0085s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_room` SET `Rname`='套房',`Rprice`='1106',`Rmsg`='建筑面积40㎡,有窗,2张1.35m单人床,可住2人,12-31层有wifi,房内保险箱,有冰箱' WHERE `Rid` = 14 [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009242s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001389s ]
+
+[ 2019-01-04T18:06:25+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0103s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001166s ]
+
+[ 2019-01-04T18:06:27+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001008s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0139s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2019-01-04T18:06:29+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/delete?no=14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0072s ]
+SQL: DELETE FROM `m_room` WHERE `Rid` = 14 [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001045s ]
+
+[ 2019-01-04T18:06:30+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index/curpage/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0102s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 10,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013097s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000597s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000626s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000716s ]
+
+[ 2019-01-04T18:06:32+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001305s ]
+SQL: SHOW COLUMNS FROM `m_user` [ RunTime:0.0115s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0113s ]
+SQL: SHOW COLUMNS FROM `m_order` [ RunTime:0.0087s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0081s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_user` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_order` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` WHERE ( Esex='男' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` WHERE ( Esex='女' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010270s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000959s ]
+
+[ 2019-01-04T18:06:37+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/echarts.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010965s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001108s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001127s ]
+
+[ 2019-01-04T18:06:42+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/money.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012698s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001013s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001073s ]
+
+[ 2019-01-04T18:06:47+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/data/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `m_order` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `m_order`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009809s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000608s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2019-01-04T18:06:50+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001015s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001059s ]
+
+[ 2019-01-04T18:06:53+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009311s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000680s ]
+
+[ 2019-01-04T18:07:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doadd.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0088s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `m_emp` (`Ename`,`Esex`,`Eage`,`Ecard`,`Ephone`) VALUES ('老二','女','111','342622155986221534','13625645047') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001456s ]
+
+[ 2019-01-04T18:07:13+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0074s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014906s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
+[ 2019-01-04T18:07:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0176s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 5,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001493s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001555s ]
+
+[ 2019-01-04T18:07:16+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/edit/Eid/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `m_emp` WHERE ( Eid='11' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011491s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2019-01-04T18:07:20+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0192s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_emp` SET `Ename`='老二',`Eage`='11',`Ecard`='342622155986221534',`Ephone`='13625645047' WHERE `Eid` = 11 [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012522s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2019-01-04T18:07:21+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001139s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001237s ]
+
+[ 2019-01-04T18:07:23+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001430s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0084s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `m_emp` LIMIT 5,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010705s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001203s ]
+
+[ 2019-01-04T18:07:25+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/delete?id=11
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0092s ]
+SQL: DELETE FROM `m_emp` WHERE `Eid` = 11 [ RunTime:0.0023s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020486s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001166s ]
+
+[ 2019-01-04T18:07:26+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index/curpage/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001597s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001724s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 5,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010907s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2019-01-04T18:07:28+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000737s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000242s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001112s ]
+
+[ 2019-01-04T18:07:29+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006652s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2019-01-04T18:17:12+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001112s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000853s ]
+
+[ 2019-01-04T18:17:14+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/admin/login/adminLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+SQL: SHOW COLUMNS FROM `m_admin` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `m_admin` WHERE ( Aname='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019316s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001210s ]
+
+[ 2019-01-04T18:17:15+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Room/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+SQL: SHOW COLUMNS FROM `m_room` [ RunTime:0.0212s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_room` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `m_room` LIMIT 0,5   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+NOTIC: [8] Undefined index: rpicture D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\78d1d27db5d632d58daa3a77f8a974bb.php 第 86 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001187s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001287s ]
+
+[ 2019-01-04T18:17:17+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010827s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000679s ]
+
+[ 2019-01-04T18:17:17+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011218s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011256s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000714s ]
+
+[ 2019-01-04T18:17:19+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/edit/Eid/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `m_emp` WHERE ( Eid='6' ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011107s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2019-01-04T18:17:21+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_emp` SET `Ename`='王二',`Esex`='男',`Eage`='28',`Ecard`='123456789123456786',`Ephone`='12345678915' WHERE `Eid` = 6 [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009309s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009367s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001062s ]
+
+[ 2019-01-04T18:17:21+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0138s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012160s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2019-01-04T18:17:27+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/edit/Eid/6.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000772s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `m_emp` WHERE ( Eid='6' ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000917s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000951s ]
+
+[ 2019-01-04T18:17:29+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/emp/doedit.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000636s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0074s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `m_emp` SET `Ename`='王二',`Esex`='女',`Eage`='28',`Ecard`='123456789123456786',`Ephone`='12345678915' WHERE `Eid` = 6 [ RunTime:0.0032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009101s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009148s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001023s ]
+
+[ 2019-01-04T18:17:30+08:00 ] ::1 /PHPstormProject/thinkphp/Hotel/index.php/Admin/Emp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+SQL: SHOW COLUMNS FROM `m_emp` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `m_emp` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `m_emp` LIMIT 0,5   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+NOTIC: [8] Undefined variable: room D:\XAMPP\htdocs\PHPstormProject\thinkphp\Hotel\Application\Runtime\Cache\Admin\ce500a6006bc6bd22920d89f3f11df74.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012383s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000505s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001027s ]
+

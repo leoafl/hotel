@@ -1,0 +1,98 @@
+<include file="Public/header"/>
+<div id="emplist" class="layui-body">
+    <fieldset class="layui-elem-field layui-field-title" style="margin-top: 20px;">
+        <legend>订单评价</legend>
+    </fieldset>
+
+    <div style="padding: 20px; background-color: #F2F2F2;">
+        <div class="layui-row layui-col-space15">
+            <div class="layui-col-md6">
+                <div class="layui-card">
+                    <div class="layui-card-header">我的订单</div>
+                    <div class="layui-card-body">
+                        <ul>
+                            <volist name="orders" id="order">
+                                <li style="padding-bottom: 10px">订单号：{$order['oid']}</li>
+                                <li style="padding-bottom: 10px">入住人：{$order['uname']}</li>
+                                <li style="padding-bottom: 10px">手机号：{$order['ophone']}</li>
+                                <li style="padding-bottom: 10px">入住时间：{$order['ogtime']}</li>
+                                <li style="padding-bottom: 10px">离店时间：{$order['oltime']}</li>
+                                <li style="padding-bottom: 10px">房型：{$order['rname']}</li>
+                                <li style="padding-bottom: 10px">房间详情：{$order['rmsg']}</li>
+                                <li style="padding-bottom: 10px">价格：<b style="color:#f60;font-size: 16px">{$order['rprice']}</b>
+                                </li>
+                            </volist>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="layui-col-md6">
+                <div class="layui-card">
+                    <div class="layui-card-header">说点什么吧</div>
+                    <div class="layui-card-body">
+                        <!--评分-->
+                        <div>
+                            <label class="layui-form-label">评个分吧：</label>
+                            <div id="test5"></div>
+                        </div>
+
+                        <!--<div><div id="test6"></div></div>-->
+                        <!--评价内容-->
+                        <form class="layui-form" method="post" action="{:U('personal/doevaluate')}">
+                            <input type="hidden" name="Oid" value="{$order['oid']}">
+                            <div class="layui-form-item layui-form-text">
+                                <label class="layui-form-label">留下脚印：</label>
+                                <div class="layui-input-block">
+                                    <!--<input class="layui-input layui-input-inline" type="text" name="Oevaluate" value="{$order['oevaluate']}" placeholder="请输入你的评价">-->
+                                    <textarea name="Oevaluate"  placeholder="请输入你的评价" class="layui-textarea">{$order['oevaluate']}</textarea>
+                                </div>
+                            </div>
+                            <div class="layui-form-item">
+                                <div class="layui-input-block">
+                                    <button class="layui-btn" type="submit">立即提交</button>
+                                    <button type="reset" class="layui-btn layui-btn-primary">重置</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</div>
+</div>
+
+
+<script src="__PUBLIC__/layui/layui.js"></script>
+<!--<script src="__PUBLIC__/layer/layer.js"></script>-->
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'layer','form','rate'], function () {
+        var element = layui.element;
+        var form = layui.form;
+        var rate = layui.rate;
+        //自定义文本
+        rate.render({
+            elem: '#test5'
+            ,value: 3
+            ,text: true
+            ,setText: function(value){ //自定义文本的回调
+                var arrs = {
+                    '1': '极差'
+                    ,'2': '差'
+                    ,'3': '中等'
+                    ,'4': '好'
+                    ,'5': '极好'
+                };
+                this.span.text(arrs[value] || ( value + "星"));
+            }
+        })
+    });
+
+
+</script>
+</body>
+</html>

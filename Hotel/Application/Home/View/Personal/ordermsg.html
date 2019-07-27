@@ -1,0 +1,59 @@
+<include file="Public/header"/>
+<div id="emplist" class="layui-body">
+    <fieldset class="layui-elem-field layui-field-title" style="margin-top: 20px;">
+        <legend>订单详情</legend>
+    </fieldset>
+
+    <div style="padding: 20px; background-color: #F2F2F2;">
+        <div class="layui-row layui-col-space15">
+            <div class="layui-col-md12">
+                <div class="layui-card">
+                    <div class="layui-card-header">我的订单</div>
+                    <div class="layui-card-body">
+                        <ul>
+                            <volist name="orders" id="order">
+                                <li style="padding-bottom: 10px">订单号：{$order['oid']}</li>
+                                <li style="padding-bottom: 10px">姓名：{$order['oname']}</li>
+                                <li style="padding-bottom: 10px">手机号：{$order['ophone']}</li>
+                                <li style="padding-bottom: 10px">入住时间：{$order['ogtime']}</li>
+                                <li style="padding-bottom: 10px">离店时间：{$order['oltime']}</li>
+                                <li style="padding-bottom: 10px">房型：{$order['rname']}</li>
+                                <li style="padding-bottom: 10px">房间详情：{$order['rmsg']}</li>
+                                <li style="padding-bottom: 10px">价格：<b style="color:#f60;font-size: 16px">{$order['rprice']}</b></li>
+                                <li style="padding-bottom: 20px">我的评价：{$order['oevaluate']}</li>
+                            </volist>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--<div class="layui-col-md6">-->
+                <!--<div class="layui-card">-->
+                    <!--<div class="layui-card-header">我的评价</div>-->
+                    <!--<div class="layui-card-body">-->
+                        <!--<p>{$order[0]['oevaluate']}</p>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        </div>
+
+    </div>
+</div>
+
+</div>
+</div>
+
+
+<script src="__PUBLIC__/layui/layui.js"></script>
+<!--<script src="__PUBLIC__/layer/layer.js"></script>-->
+<script>
+    //JavaScript代码区域
+    layui.use(['element', 'layer'], function () {
+        var element = layui.element;
+
+
+    });
+
+
+</script>
+</body>
+</html>
